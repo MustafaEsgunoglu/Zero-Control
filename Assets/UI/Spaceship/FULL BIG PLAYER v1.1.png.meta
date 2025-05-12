@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 1ecc04d06ed4335429bb44468a656caf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 295452239717648705
+    second: FULL BIG PLAYER v1.1_0
+  - first:
+      213: -8165426012186896575
+    second: FULL BIG PLAYER v1.1_1
+  - first:
+      213: 3474212291923912484
+    second: FULL BIG PLAYER v1.1_2
+  - first:
+      213: -3454409546630923830
+    second: FULL BIG PLAYER v1.1_3
+  - first:
+      213: 9173672562893243770
+    second: FULL BIG PLAYER v1.1_4
+  - first:
+      213: -6181633299502001322
+    second: FULL BIG PLAYER v1.1_5
+  - first:
+      213: -2524508285582249796
+    second: FULL BIG PLAYER v1.1_6
+  - first:
+      213: -6350019915902401191
+    second: FULL BIG PLAYER v1.1_7
+  - first:
+      213: -2258551115598296301
+    second: FULL BIG PLAYER v1.1_8
+  - first:
+      213: 2906444007804095989
+    second: FULL BIG PLAYER v1.1_9
+  - first:
+      213: 4468602257793316187
+    second: FULL BIG PLAYER v1.1_10
+  - first:
+      213: -2284876784322242344
+    second: FULL BIG PLAYER v1.1_11
+  - first:
+      213: -8476669117474666138
+    second: FULL BIG PLAYER v1.1_12
+  - first:
+      213: 972016558009506957
+    second: FULL BIG PLAYER v1.1_13
+  - first:
+      213: 62415671083015628
+    second: FULL BIG PLAYER v1.1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 413
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c6742f38a91400800000000000000
+      internalID: 295452239717648705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 413
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479ddfdd449eae80800000000000000
+      internalID: -8165426012186896575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 413
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427ab6e1ca1e63030800000000000000
+      internalID: 3474212291923912484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 413
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97850d1d87f00d0800000000000000
+      internalID: -3454409546630923830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 411
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75cffc779e6f4f70800000000000000
+      internalID: 9173672562893243770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 248
+        width: 47
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653157b044d663aa0800000000000000
+      internalID: -6181633299502001322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 248
+        width: 47
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f655f61527fcd0800000000000000
+      internalID: -2524508285582249796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 248
+        width: 47
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9554bf3c78230e7a0800000000000000
+      internalID: -6350019915902401191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 248
+        width: 53
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b83b70ab308a0e0800000000000000
+      internalID: -2258551115598296301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 248
+        width: 53
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc9b41d63c55820800000000000000
+      internalID: 2906444007804095989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55774ae31aa30e30800000000000000
+      internalID: 4468602257793316187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89fe2abac7a40e0800000000000000
+      internalID: -2284876784322242344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 30
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66906665952dc5a80800000000000000
+      internalID: -8476669117474666138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 29
+        width: 162
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c54f7d8eb4d7d00800000000000000
+      internalID: 972016558009506957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FULL BIG PLAYER v1.1_14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 29
+        width: 166
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd125fd8bebdd000800000000000000
+      internalID: 62415671083015628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a093f6450dd14a44a4a9691797dec95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FULL BIG PLAYER v1.1_0: 295452239717648705
+      FULL BIG PLAYER v1.1_1: -8165426012186896575
+      FULL BIG PLAYER v1.1_10: 4468602257793316187
+      FULL BIG PLAYER v1.1_11: -2284876784322242344
+      FULL BIG PLAYER v1.1_12: -8476669117474666138
+      FULL BIG PLAYER v1.1_13: 972016558009506957
+      FULL BIG PLAYER v1.1_14: 62415671083015628
+      FULL BIG PLAYER v1.1_2: 3474212291923912484
+      FULL BIG PLAYER v1.1_3: -3454409546630923830
+      FULL BIG PLAYER v1.1_4: 9173672562893243770
+      FULL BIG PLAYER v1.1_5: -6181633299502001322
+      FULL BIG PLAYER v1.1_6: -2524508285582249796
+      FULL BIG PLAYER v1.1_7: -6350019915902401191
+      FULL BIG PLAYER v1.1_8: -2258551115598296301
+      FULL BIG PLAYER v1.1_9: 2906444007804095989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

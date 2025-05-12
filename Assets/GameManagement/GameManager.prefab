@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2548499314837579427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 780809071121048468}
+  - component: {fileID: 7741501100230365920}
+  - component: {fileID: 5344564221977222735}
+  - component: {fileID: 1028138734052943578}
+  - component: {fileID: -4328156662583044551}
+  - component: {fileID: 5677052951852160461}
+  - component: {fileID: -7481662591026049967}
+  - component: {fileID: 2771399244999131763}
+  - component: {fileID: 2467535381680654444}
+  - component: {fileID: 920674534558297474}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &780809071121048468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7741501100230365920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 169945717a6224c418963886e3300981, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5344564221977222735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ef3e3eab32d54994fc6bd3b55383c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HealthBar: {fileID: 0}
+  m_TimerBar: {fileID: 0}
+  m_Money:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_Button: {fileID: 0}
+--- !u!114 &1028138734052943578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60efd94497509054ebe0d0131f7b0ad4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-4328156662583044551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12a40fdf869d9494b98856a2ce17b738, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PoolSize: 100
+  m_BulletPrefab: {fileID: 7836862079497688474, guid: a32bc32578691b042b5d08dee08f1afd, type: 3}
+--- !u!114 &5677052951852160461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8d3ebe15e4fc645aa921c227663616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SpawnRadius: 10
+  m_HealthPowerup: {fileID: 5995558208172718271, guid: d2b8d2426bb820f4197e3c80b31801c7, type: 3}
+  m_HealthPowerupCount: 4
+  m_HealthPowerupMinDelay: 10
+  m_HealthPowerupMaxDelay: 20
+  m_EnginePowerup: {fileID: 6420961833867889757, guid: 9c0a31f8e3410934fa572de79388eade, type: 3}
+  m_EnginePowerupCount: 2
+  m_EnginePowerupMinDelay: 20
+  m_EnginePowerupMaxDelay: 40
+  m_CanonPowerup: {fileID: 2862162099101707998, guid: 7e83e5abf08d50c47baed657c5fbf6a6, type: 3}
+  m_CanonPowerupCount: 2
+  m_CanonPowerupMinDelay: 20
+  m_CanonPowerupMaxDelay: 40
+  m_DodgePowerup: {fileID: 202614731765678159, guid: c0e5c75e2d755f3479868f0ce0848516, type: 3}
+  m_DodgePowerupCount: 2
+  m_DodgePowerupMinDelay: 20
+  m_DodgePowerupMaxDelay: 40
+--- !u!114 &-7481662591026049967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 761949bc0e049504d8051d9f3a4371c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FirstLevel: 1
+--- !u!114 &2771399244999131763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09155fac5ce36204f8b33216c2d07429, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Cost: 10
+  m_TextMoney:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_Bar:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_StartButton: {fileID: 0}
+  m_BuyButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_UpgradeBought: 
+  m_ShopShips: []
+  m_ShopShipParts: []
+  audioClip: {fileID: 8300000, guid: 9a00a7aec504739458f647ea6d078601, type: 3}
+--- !u!114 &2467535381680654444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a95d0f191c2c4cb262c1de13d33da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Timer: 50
+  died: 0
+--- !u!82 &920674534558297474
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2548499314837579427}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 33b8fc8bd1c676344af30afa8af374d4, type: 3}
+  m_Resource: {fileID: 8300000, guid: 33b8fc8bd1c676344af30afa8af374d4, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

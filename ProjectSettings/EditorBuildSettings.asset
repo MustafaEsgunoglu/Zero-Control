@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Main Menu.unity
+    guid: a8744bbb5ee70634f94b2a43296fd305
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/StartCutScene.unity
+    guid: 2c0dff6aae7aa514f96df54bb1a4da18
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 1.unity
+    guid: 282b75aa9084513409f69c9659e933b5
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 2.unity
+    guid: dec4bb3518df16d4dbc5737960734e5b
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 3.unity
+    guid: 4ac5236fa30f5c945b9c468c8f2dd1d4
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 4.unity
+    guid: 8c06c48cda8e79742b34c2aa83389d53
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 5.unity
+    guid: a1a8bde12c318424a9526c08ba65b122
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 6.unity
+    guid: 2c2a3103122218247879e5607e206b37
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 7.unity
+    guid: 0d073b5199a2c064fb0c5ffc91d40596
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 8.unity
+    guid: eff37856d8ddf6c40b7202f5e73472ba
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 9.unity
+    guid: 5fb8f4d82ad54884a9919a1d1d9e0ed1
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/Level 10.unity
+    guid: e4015d525d11a7e4493a2465061a48f2
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/UpgradeShop.unity
+    guid: 2d49c238e12205347be44c7cab658cfd
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/Lv2CutScene.unity
+    guid: 705a9f2da14ef1f4dbdfaf310694b5a1
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/Lv4CutScene.unity
+    guid: b417a87b7fe4eb144b1e5dccd56474e9
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/Lv6CutScene.unity
+    guid: 8f49ec5e62b86ff4aaa4add10a625c3b
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/Lv8CutScene.unity
+    guid: 5c7b5f29150dd2e4fbdbbedc0da14677
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/CutScenes/EndScene.unity
+    guid: 00050db640b391f46a7e25c61b8ed4bb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
